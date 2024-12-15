@@ -16,9 +16,9 @@ I am an undergraduate Web Application Development student, with a background in 
     - 🖌️ do painting and skecthing
     - 🎵 listen to music
   
-<h3 align="center">Connect with me</h3>
+<h3>Connect with me</h3>
 
-<div style="margin-top:10px" align="center">
+<div>
     <a  href="https://www.linkedin.com/in/gian-carlos-samaniego-herrera-816123241/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
@@ -32,7 +32,7 @@ I am an undergraduate Web Application Development student, with a background in 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h3>Github stats:</h3> 
 
 [![](https://github-readme-stats.vercel.app/api?username=GianCarlos25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GianCarlos25)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=GianCarlos25&theme=material-palenight)](https://github.com/GianCarlos25)
