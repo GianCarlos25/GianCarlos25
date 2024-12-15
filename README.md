@@ -32,8 +32,9 @@ I am an undergraduate Web Application Development student, with a background in 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 
-<div align="center">
 <h3 style="margin: 5px 10px;">Github stats:</h3> 
+<div align="center">
+
 
 [![](https://github-readme-stats.vercel.app/api?username=GianCarlos25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GianCarlos25)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=GianCarlos25&theme=material-palenight)](https://github.com/GianCarlos25)
