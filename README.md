@@ -22,7 +22,7 @@ I am an undergraduate Web Application Development student, with a background in 
     <a  href="https://www.linkedin.com/in/gian-carlos-samaniego-herrera-816123241/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    
+</div>    
 <h3> Languages </h3>
 <span> 
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -36,4 +36,4 @@ I am an undergraduate Web Application Development student, with a background in 
 
 [![](https://github-readme-stats.vercel.app/api?username=GianCarlos25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GianCarlos25)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=GianCarlos25&theme=material-palenight)](https://github.com/GianCarlos25)
-</div>
+
