@@ -15,7 +15,7 @@ I am an undergraduate Web Application Development student, with a background in 
     - 📖 I love to read novels
     - 🖌️ do painting and skecthing
     - 🎵 listen to music
-    - 
+  
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
