@@ -16,14 +16,14 @@ I am an undergraduate Web Application Development student, with a background in 
     - 🖌️ do painting and skecthing
     - 🎵 listen to music
   
-<h3>Connect with me</h3>
+<h3>Connect with me:</h3>
 
 <div>
     <a  href="https://www.linkedin.com/in/gian-carlos-samaniego-herrera-816123241/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
 </div>    
-<h3> Languages </h3>
+<h3> Languages: </h3>
 <span> 
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
