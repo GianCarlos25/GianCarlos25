@@ -34,6 +34,6 @@ I am an undergraduate Web Application Development student, with a background in 
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=GianCarlos25-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GianCarlos25)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=GianCarlos25-48&theme=material-palenight)](https://github.com/GianCarlos25)
+[![](https://github-readme-stats.vercel.app/api?username=GianCarlos25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GianCarlos25)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=GianCarlos25&theme=material-palenight)](https://github.com/GianCarlos25)
 </div>
