@@ -1,0 +1,30 @@
+name: 🔄 Update README diariamente
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # Cada día a las 9:00 AM UTC
+  workflow_dispatch:        # También se puede lanzar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📝 Actualizar README
+        run: python update_readme.py
+
+      - name: 💾 Commit y Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "📅 README actualizado: $(date '+%d/%m/%Y')"
+          git push
