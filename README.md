@@ -174,4 +174,4 @@ Linux / Windows          5 hrs               ███████████�
 ```
 
 
-<!-- last-update: 2026-11-10 -->
+<!-- last-update: 2026-11-11 -->
